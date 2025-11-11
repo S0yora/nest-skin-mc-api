@@ -5,6 +5,7 @@ Uses only Mojang API (for now)
 
 
 <img width="500" height="1000" alt="skinAnd2DAvatars" src="https://github.com/user-attachments/assets/0b158945-3b42-4820-898c-80d0cf77d0b2" />
+<br>
 <img width="500" height="650" alt="3DAvatars" src="https://github.com/user-attachments/assets/81c64977-9e08-4380-bbe1-945c8266537f" />
 
 ## 🚀 Technologies
